@@ -1,0 +1,8 @@
+{
+  "name": "Flare",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b00e66e1"
+}
